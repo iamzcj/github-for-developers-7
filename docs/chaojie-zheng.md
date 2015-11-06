@@ -4,3 +4,4 @@ The bio should contain:
 - [ ] Watermelon
 - [ ] Badminton
 - [ ] black
+- [ ] more information
