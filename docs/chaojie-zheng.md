@@ -3,3 +3,4 @@ The bio should contain:
 - [ ] China
 - [ ] Watermelon
 - [ ] Badminton
+- [ ] black
